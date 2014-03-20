@@ -30,6 +30,13 @@
 							简介：生平第一个比较正式的web项目<br />项目名称为wood的项目正式创建，没有需求文档，没有设计文档，想到那里就做到那里，一切都是新的，一切都是未知数，不知道一个人能不能坚持完成整个项目！技术慢慢学
 						</p>
 					</div></li>
+				<li><time class="cbp_tmtime" datetime="2014年3月20日"> <span>2014年3月20日</span>
+					<span>12:05</span> </time>
+					<div class="cbp_tmicon cbp_tmicon-phone"></div>
+					<div class="cbp_tmlabel">
+						<h2>部署至github</h2>
+						<p>成功将项目部署至github上</p>
+					</div></li>
 			</ul>
 		</div>
 	</div>
