@@ -30,6 +30,6 @@
 	<div class="tools">
 		<a href="about.jsp" target="_black">关于本站</a>|<a href="#">服务条款</a>|<a
 			href="#">联系我们</a>|<a href="#">人才招聘</a>|<a href="#">广告服务</a>|<a
-			href="#">友情链接</a>
+			href="links.jsp">友情链接</a>
 	</div>
 </div>
